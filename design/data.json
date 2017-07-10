@@ -1,0 +1,58 @@
+{
+"_id":"",
+"organization":"BGS NATIONAL PUBLIC SCHOOL",
+"project":"",
+"sample_source":"Arekere Lake",
+"sample_time": "2016-07-15T09:00:00.73+05:30",
+"sample_loc": {
+    "type": "Point",
+    "coordinates": [
+      77.57926940917969,
+      12.981809528732812
+    ]
+  },
+"measurements":[
+	{
+		"parameter":"ph",
+		"value":7,
+		"unit":"number"
+	},	
+	{
+		"parameter":"disoolved_oxygen",
+		"value":2.43,
+		"unit":"Mg/L"
+	},
+	{
+		"parameter":"suspended_solids",
+		"value":2.43,
+		"unit":"Mg/L"
+	},
+	{
+		"parameter":"dissolved_solids",
+		"value":2.43,
+		"unit":"Mg/L"
+	},
+	{
+		"parameter":"calcium_hardness",
+		"value":2.43,
+		"unit":"Mg/L"
+	},
+	{
+		"parameter":"magnesium_hardness",
+		"value":2.43,
+		"unit":"Mg/L"
+	},
+	{
+		"parameter":"total_hardness",
+		"value":2.43,
+		"unit":"Mg/L"
+	}
+],
+"created_at": "2016-05-26T11:42:00.73+05:30",	
+"updated_at": "2016-05-26T11:42:00.73+05:30",
+"created_by": "thej",
+"updated_by": "raj",
+"type":"results",
+"db_user":"1234",
+"version": 0.1
+}
